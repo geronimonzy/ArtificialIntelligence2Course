@@ -1,1 +1,4 @@
-conda
+pandas
+numpy
+matplotlib
+seaborn
