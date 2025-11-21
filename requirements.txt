@@ -1,4 +1,6 @@
-pandas
-numpy
-matplotlib
-seaborn
+pandas~=2.3.3
+numpy~=2.3.4
+matplotlib~=3.10.7
+seaborn~=0.13.2
+protobuf~=6.33.1
+tensorflow~=2.20.0
